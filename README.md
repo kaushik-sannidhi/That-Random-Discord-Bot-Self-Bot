@@ -12,8 +12,10 @@ This is the self bot version of the TRDB( that random discord bot). You can add 
 2. copy the token string to the token variable. The variable is located in main.py
 
 If you want to run the bot 24/7 for free:
-3.
-Copy all of the lines of code and put the code in replit. When you run the code, replit should install the dependincies. After that, a small window will pop up above the console. At the top of the window, there is a link. Copy the Link
+
+3.Copy all of the lines of code and put the code in replit. When you run the code, replit should install the dependincies. After that, a small window will pop up above the console. At the top of the window, there is a link. Copy the Link
+
 4. Go to https://uptimerobot.com and create a free account. Next, click add monitor. In that section, select https and put the url that you copied. You can keep all of the remaining settings the same (you may want to put your email to see when the bot is down)
+
 5. enjoy the bot!
 
